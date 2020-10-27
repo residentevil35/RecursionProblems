@@ -1,0 +1,25 @@
+**********************************
+CS 372
+Output file for Recursion problems
+**********************************
+#21, number of digits in an int
+Number: 73264
+Number of digits: 5
+
+#23 Reverse printing a number
+Result: 46237
+
+Contents of the array: 0 1 2 3 4 5 6 7 8 9 
+
+#27, Reverse the contents of an array
+9 8 7 6 5 4 3 2 1 0 
+
+#28, the sum of the values of the array
+Sum of the array: 45
+
+#29, returning the location of an element in the array
+The location of element 2 in the array is: 7
+
+#33, the Greatest Common Divisor (GDC) of two integers
+Integer a = 15387 and integer b = 549
+GDC of 15387 and 549 is: 3
